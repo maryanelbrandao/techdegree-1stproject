@@ -54,7 +54,7 @@ let quotes = [
 /***
  * Array with HTML color codes.
  ***/
-bg_colors = ['#ff3352', '#ff33ca', '#8333ff', '#333cff', '#33ffc1', '#ecff33', '#000000', '#d22f1c'];
+bg_colors = ['#ff3352', '#ff33ca', '#8333ff', '#333cff', '#33ffc1', '#ecff33', '#d22f1c'];
 
 
 /***
